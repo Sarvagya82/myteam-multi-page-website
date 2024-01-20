@@ -44,7 +44,4 @@ Users should be able to:
 - [Formik](https://formik.org/) - for Build Form
 - [Yup](https://www.npmjs.com/package/yup) - for Form Validation
 
-## Author
 
-- Website - [Guney Unay](https://guneyunay.com)
-- Frontend Mentor - [@unaygney](https://www.frontendmentor.io/profile/unaygney)
