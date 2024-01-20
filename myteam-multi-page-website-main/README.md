@@ -25,8 +25,6 @@ Users should be able to:
   - The `Email Address` is not formatted correctly should show "Please use a valid email address"
 
 ### Links
-
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/myteam-multipage-website-with-nextjs-and-tailwindcss-XYIM2-Frf8)
 - Live Site URL: [Live site URL](https://myteam-multi-page-website-one.vercel.app/)
 
 ## My process
