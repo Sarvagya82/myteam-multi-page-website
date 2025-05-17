@@ -1,16 +1,5 @@
-Frontend Mentor - myteam website solution
+Frontend Site - myteam website solution
 This is a solution to the myteam website challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-Table of contents
-Overview
-The challenge
-Links
-My process
-Built with
-Author
-Overview
-The challenge
-Users should be able to:
 
 View the optimal layout for each page depending on their device's screen size
 See hover states for all interactive elements throughout the site
