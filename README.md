@@ -1,4 +1,4 @@
-Frontend Site - myteam website solution
+Frontend Site - myteam website solution.
 This is a solution to the myteam website challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 View the optimal layout for each page depending on their device's screen size
